@@ -21,7 +21,11 @@
 
 <br/>
 
-<!-- Stats + Top languages — side by side -->
+<!-- Stats + Top languages — side by side.
+     DISABLED until self-hosted github-readme-stats is deployed (see STATS_SETUP.md).
+     To enable: deploy your instance, replace github-readme-stats.vercel.app with your
+     domain below, and remove these comment markers. -->
+<!--
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=Omai4x&show_icons=true&count_private=true&include_all_commits=true&hide_rank=true&hide_border=true&title_color=22D3EE&icon_color=A78BFA&text_color=94A3B8&bg_color=070B16&card_width=500" />
   <img width="49%" src="https://github-readme-stats.vercel.app/api?username=Omai4x&show_icons=true&count_private=true&include_all_commits=true&hide_rank=true&hide_border=true&title_color=0891B2&icon_color=7C3AED&text_color=0F172A&bg_color=FFFFFF&card_width=500" alt="GitHub stats" />
@@ -30,6 +34,7 @@
   <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=Omai4x&layout=compact&langs_count=8&hide_border=true&title_color=22D3EE&text_color=94A3B8&bg_color=070B16&card_width=500" />
   <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Omai4x&layout=compact&langs_count=8&hide_border=true&title_color=0891B2&text_color=0F172A&bg_color=FFFFFF&card_width=500" alt="Top languages" />
 </picture>
+-->
 
 </div>
 
@@ -48,11 +53,13 @@
 <br/>
 <div align="center">
 
-<!-- TODO: replace YOUR-LINKEDIN with your handle (the part after /in/ in your URL) -->
+<!-- LinkedIn badge DISABLED until a real handle is provided. To enable, replace
+     YOUR-LINKEDIN with the part after /in/ in your profile URL and uncomment.
 <a href="https://www.linkedin.com/in/YOUR-LINKEDIN/">
   <img src="https://img.shields.io/badge/LinkedIn-070B16?style=for-the-badge&logo=linkedin&logoColor=22D3EE&labelColor=070B16" alt="LinkedIn" />
 </a>
 &nbsp;&nbsp;
+-->
 <a href="mailto:emmanuelokechukwu291@gmail.com">
   <img src="https://img.shields.io/badge/Email-070B16?style=for-the-badge&logo=gmail&logoColor=10B981&labelColor=070B16" alt="Email" />
 </a>
